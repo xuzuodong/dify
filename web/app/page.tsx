@@ -11,6 +11,7 @@ const Home = async () => {
           <Link href='/apps'>🚀</Link>
           <Link href='/apps'>🚀</Link>
           <Link href='/apps'>🚀</Link>
+          <Link href='/apps'>🚀</Link>
         </div>
       </div>
     </div>
