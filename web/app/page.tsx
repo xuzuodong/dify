@@ -9,6 +9,7 @@ const Home = async () => {
         <Loading type='area' />
         <div className="mt-10 text-center">
           <Link href='/apps'>🚀</Link>
+          <Link href='/apps'>🚀</Link>
         </div>
       </div>
     </div>
