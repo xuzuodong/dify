@@ -10,6 +10,7 @@ const Home = async () => {
         <div className="mt-10 text-center">
           <Link href='/apps'>🚀</Link>
           <Link href='/apps'>🚀</Link>
+          <Link href='/apps'>🚀</Link>
         </div>
       </div>
     </div>
